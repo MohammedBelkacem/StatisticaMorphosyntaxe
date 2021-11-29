@@ -7,7 +7,9 @@ this scripts transforms a morphosyntactic corpora to a pandas dataframe to make 
 
 ## Please, download Python 3.6 from https://www.python.org/
 
-## Install the following libraries
+& then
+
+## Install the following libraries
 
 - csv (for csv conversion): pip install csv
 - pandas (for data science): pip install pandas
