@@ -9,6 +9,6 @@ this scripts transforms a morphosyntactic corpora to a pandas dataframe to make 
 
 * Install the following libraries
 
-. csv (for csv conversion): pip install csv
-. pandas (for data science): pip install pandas
-. matplotlib (for data visualization): pip install matplotlib
+- csv (for csv conversion): pip install csv
+- pandas (for data science): pip install pandas
+- matplotlib (for data visualization): pip install matplotlib
